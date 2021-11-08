@@ -1,3 +1,5 @@
 {
-  "values": []
+  "values": [
+    "post_tick:tick"
+  ]
 }
