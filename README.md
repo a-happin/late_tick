@@ -1,6 +1,12 @@
 late_tick
 ==
 
+---
+> ⚠ I have stopped updating this library because it is no longer considered necessary.  
+> Please use `/schedule` instead.
+---
+
+
 ## Features
 
 - define `tag/function` for registering after `#tick` handlers
